@@ -1,0 +1,2 @@
+# Classify Jupyter Notebook code as Python for GitHub Linguist
+*.ipynb linguist-language=Python
